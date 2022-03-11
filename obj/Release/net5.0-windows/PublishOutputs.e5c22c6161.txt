@@ -1,0 +1,5 @@
+C:\Users\Rafael\Documents\Publish.net\Calculadora.exe
+C:\Users\Rafael\Documents\Publish.net\Calculadora.dll
+C:\Users\Rafael\Documents\Publish.net\Calculadora.deps.json
+C:\Users\Rafael\Documents\Publish.net\Calculadora.runtimeconfig.json
+C:\Users\Rafael\Documents\Publish.net\Calculadora.pdb

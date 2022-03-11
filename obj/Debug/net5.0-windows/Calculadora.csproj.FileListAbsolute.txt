@@ -1,0 +1,66 @@
+C:\Users\Rafael\VSComm\Projetos\Calculadora\bin\Debug\net5.0-windows\Calculadora.exe
+C:\Users\Rafael\VSComm\Projetos\Calculadora\bin\Debug\net5.0-windows\Calculadora.deps.json
+C:\Users\Rafael\VSComm\Projetos\Calculadora\bin\Debug\net5.0-windows\Calculadora.runtimeconfig.json
+C:\Users\Rafael\VSComm\Projetos\Calculadora\bin\Debug\net5.0-windows\Calculadora.runtimeconfig.dev.json
+C:\Users\Rafael\VSComm\Projetos\Calculadora\bin\Debug\net5.0-windows\Calculadora.dll
+C:\Users\Rafael\VSComm\Projetos\Calculadora\bin\Debug\net5.0-windows\ref\Calculadora.dll
+C:\Users\Rafael\VSComm\Projetos\Calculadora\bin\Debug\net5.0-windows\Calculadora.pdb
+C:\Users\Rafael\VSComm\Projetos\Calculadora\obj\Debug\net5.0-windows\Calculadora.csprojAssemblyReference.cache
+C:\Users\Rafael\VSComm\Projetos\Calculadora\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Rafael\VSComm\Projetos\Calculadora\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Rafael\VSComm\Projetos\Calculadora\obj\Debug\net5.0-windows\Calculadora_MarkupCompile.cache
+C:\Users\Rafael\VSComm\Projetos\Calculadora\obj\Debug\net5.0-windows\Calculadora_MarkupCompile.lref
+C:\Users\Rafael\VSComm\Projetos\Calculadora\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Rafael\VSComm\Projetos\Calculadora\obj\Debug\net5.0-windows\Calculadora.g.resources
+C:\Users\Rafael\VSComm\Projetos\Calculadora\obj\Debug\net5.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\VSComm\Projetos\Calculadora\obj\Debug\net5.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Rafael\VSComm\Projetos\Calculadora\obj\Debug\net5.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\Rafael\VSComm\Projetos\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\VSComm\Projetos\Calculadora\obj\Debug\net5.0-windows\Calculadora.dll
+C:\Users\Rafael\VSComm\Projetos\Calculadora\obj\Debug\net5.0-windows\ref\Calculadora.dll
+C:\Users\Rafael\VSComm\Projetos\Calculadora\obj\Debug\net5.0-windows\Calculadora.pdb
+C:\Users\Rafael\VSComm\Projetos\Calculadora\obj\Debug\net5.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\Rafael\OneDrive\Área de Trabalho\Documentos Rafael\DevFiles\Projetos em C#\Projetos\Calculadora\bin\Debug\net5.0-windows\Calculadora.exe
+C:\Users\Rafael\OneDrive\Área de Trabalho\Documentos Rafael\DevFiles\Projetos em C#\Projetos\Calculadora\bin\Debug\net5.0-windows\Calculadora.deps.json
+C:\Users\Rafael\OneDrive\Área de Trabalho\Documentos Rafael\DevFiles\Projetos em C#\Projetos\Calculadora\bin\Debug\net5.0-windows\Calculadora.runtimeconfig.json
+C:\Users\Rafael\OneDrive\Área de Trabalho\Documentos Rafael\DevFiles\Projetos em C#\Projetos\Calculadora\bin\Debug\net5.0-windows\Calculadora.runtimeconfig.dev.json
+C:\Users\Rafael\OneDrive\Área de Trabalho\Documentos Rafael\DevFiles\Projetos em C#\Projetos\Calculadora\bin\Debug\net5.0-windows\Calculadora.dll
+C:\Users\Rafael\OneDrive\Área de Trabalho\Documentos Rafael\DevFiles\Projetos em C#\Projetos\Calculadora\bin\Debug\net5.0-windows\ref\Calculadora.dll
+C:\Users\Rafael\OneDrive\Área de Trabalho\Documentos Rafael\DevFiles\Projetos em C#\Projetos\Calculadora\bin\Debug\net5.0-windows\Calculadora.pdb
+C:\Users\Rafael\OneDrive\Área de Trabalho\Documentos Rafael\DevFiles\Projetos em C#\Projetos\Calculadora\obj\Debug\net5.0-windows\Calculadora.csprojAssemblyReference.cache
+C:\Users\Rafael\OneDrive\Área de Trabalho\Documentos Rafael\DevFiles\Projetos em C#\Projetos\Calculadora\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Rafael\OneDrive\Área de Trabalho\Documentos Rafael\DevFiles\Projetos em C#\Projetos\Calculadora\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Rafael\OneDrive\Área de Trabalho\Documentos Rafael\DevFiles\Projetos em C#\Projetos\Calculadora\obj\Debug\net5.0-windows\Calculadora_MarkupCompile.cache
+C:\Users\Rafael\OneDrive\Área de Trabalho\Documentos Rafael\DevFiles\Projetos em C#\Projetos\Calculadora\obj\Debug\net5.0-windows\Calculadora_MarkupCompile.lref
+C:\Users\Rafael\OneDrive\Área de Trabalho\Documentos Rafael\DevFiles\Projetos em C#\Projetos\Calculadora\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Rafael\OneDrive\Área de Trabalho\Documentos Rafael\DevFiles\Projetos em C#\Projetos\Calculadora\obj\Debug\net5.0-windows\Calculadora.g.resources
+C:\Users\Rafael\OneDrive\Área de Trabalho\Documentos Rafael\DevFiles\Projetos em C#\Projetos\Calculadora\obj\Debug\net5.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\OneDrive\Área de Trabalho\Documentos Rafael\DevFiles\Projetos em C#\Projetos\Calculadora\obj\Debug\net5.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Rafael\OneDrive\Área de Trabalho\Documentos Rafael\DevFiles\Projetos em C#\Projetos\Calculadora\obj\Debug\net5.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\Rafael\OneDrive\Área de Trabalho\Documentos Rafael\DevFiles\Projetos em C#\Projetos\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\OneDrive\Área de Trabalho\Documentos Rafael\DevFiles\Projetos em C#\Projetos\Calculadora\obj\Debug\net5.0-windows\Calculadora.dll
+C:\Users\Rafael\OneDrive\Área de Trabalho\Documentos Rafael\DevFiles\Projetos em C#\Projetos\Calculadora\obj\Debug\net5.0-windows\ref\Calculadora.dll
+C:\Users\Rafael\OneDrive\Área de Trabalho\Documentos Rafael\DevFiles\Projetos em C#\Projetos\Calculadora\obj\Debug\net5.0-windows\Calculadora.pdb
+C:\Users\Rafael\OneDrive\Área de Trabalho\Documentos Rafael\DevFiles\Projetos em C#\Projetos\Calculadora\obj\Debug\net5.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\rafael.lorenz\Desktop\Rafael\Projects\Calculadora\bin\Debug\net5.0-windows\Calculadora.exe
+C:\Users\rafael.lorenz\Desktop\Rafael\Projects\Calculadora\bin\Debug\net5.0-windows\Calculadora.deps.json
+C:\Users\rafael.lorenz\Desktop\Rafael\Projects\Calculadora\bin\Debug\net5.0-windows\Calculadora.runtimeconfig.json
+C:\Users\rafael.lorenz\Desktop\Rafael\Projects\Calculadora\bin\Debug\net5.0-windows\Calculadora.runtimeconfig.dev.json
+C:\Users\rafael.lorenz\Desktop\Rafael\Projects\Calculadora\bin\Debug\net5.0-windows\Calculadora.dll
+C:\Users\rafael.lorenz\Desktop\Rafael\Projects\Calculadora\bin\Debug\net5.0-windows\ref\Calculadora.dll
+C:\Users\rafael.lorenz\Desktop\Rafael\Projects\Calculadora\bin\Debug\net5.0-windows\Calculadora.pdb
+C:\Users\rafael.lorenz\Desktop\Rafael\Projects\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.AssemblyReference.cache
+C:\Users\rafael.lorenz\Desktop\Rafael\Projects\Calculadora\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\rafael.lorenz\Desktop\Rafael\Projects\Calculadora\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\rafael.lorenz\Desktop\Rafael\Projects\Calculadora\obj\Debug\net5.0-windows\Calculadora_MarkupCompile.cache
+C:\Users\rafael.lorenz\Desktop\Rafael\Projects\Calculadora\obj\Debug\net5.0-windows\Calculadora_MarkupCompile.lref
+C:\Users\rafael.lorenz\Desktop\Rafael\Projects\Calculadora\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\rafael.lorenz\Desktop\Rafael\Projects\Calculadora\obj\Debug\net5.0-windows\Calculadora.g.resources
+C:\Users\rafael.lorenz\Desktop\Rafael\Projects\Calculadora\obj\Debug\net5.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.lorenz\Desktop\Rafael\Projects\Calculadora\obj\Debug\net5.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\rafael.lorenz\Desktop\Rafael\Projects\Calculadora\obj\Debug\net5.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\rafael.lorenz\Desktop\Rafael\Projects\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\rafael.lorenz\Desktop\Rafael\Projects\Calculadora\obj\Debug\net5.0-windows\Calculadora.dll
+C:\Users\rafael.lorenz\Desktop\Rafael\Projects\Calculadora\obj\Debug\net5.0-windows\ref\Calculadora.dll
+C:\Users\rafael.lorenz\Desktop\Rafael\Projects\Calculadora\obj\Debug\net5.0-windows\Calculadora.pdb
+C:\Users\rafael.lorenz\Desktop\Rafael\Projects\Calculadora\obj\Debug\net5.0-windows\Calculadora.genruntimeconfig.cache
